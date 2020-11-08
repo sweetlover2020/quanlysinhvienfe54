@@ -1,0 +1,5 @@
+Swagger.vn dùng để lấy các api giao tiếp với backend
+----------------
+- Model Chỉ chứa các lớp đối tượng js
+- View chỉ chứa các file html
+- Controllers chứa các file xử lý ứng với giao diện
